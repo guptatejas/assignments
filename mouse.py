@@ -20,3 +20,4 @@ class Pointer(object):
 	def current(self):
 		print(self.x,self.y)
 		print(self.x)
+# adding a comment to check history
